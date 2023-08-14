@@ -1,0 +1,10 @@
+.linkWrapper{
+    display:inline-block;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+}
